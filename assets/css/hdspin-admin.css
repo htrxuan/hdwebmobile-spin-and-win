@@ -1,0 +1,8 @@
+.hdspin-segments td {
+	vertical-align: middle;
+	padding: 8px;
+}
+
+.hdspin-segments input.small-text {
+	width: 70px;
+}
