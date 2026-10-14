@@ -32,6 +32,9 @@ HDWebmobile Spin & Win shows visitors a spinning-wheel popup that awards a real,
 * No double opt-in and no email marketing platform integration (Mailchimp, Klaviyo, etc.) in this version
 * No built-in A/B testing or analytics/conversion dashboard
 
+= Enjoying this plugin? =
+If it helps your site, please consider [leaving an honest review on WordPress.org](https://wordpress.org/support/plugin/hdwebmobile-spin-and-win/reviews/#new-post) -- it helps other WordPress users find it. Found a problem or have an idea? Please [open a support topic](https://wordpress.org/support/plugin/hdwebmobile-spin-and-win/) first so it can be fixed.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/hdwebmobile-spin-and-win` directory, or install the plugin through the WordPress plugins screen directly.
