@@ -4,7 +4,7 @@
  * Plugin Name: HDWebmobile Spin & Win
  * Plugin URI: https://hdwebmobile.com/plugins/hdwebmobile-spin-and-win/
  * Description: A gamified discount-wheel popup for WooCommerce. Real page targeting, one spin per email enforced server-side, and the winning code shown on screen immediately.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: htrxuan - Han Tran
  * Author URI: https://hdwebmobile.com/
  * License: GPLv2 or later
@@ -23,7 +23,7 @@ if (!defined('ABSPATH')) {
 }
 
 // Define Constants
-define('HDSPIN_VERSION', '1.0.1');
+define('HDSPIN_VERSION', '1.0.2');
 define('HDSPIN_PLUGIN_FILE', __FILE__);
 define('HDSPIN_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('HDSPIN_PLUGIN_URL', plugin_dir_url(__FILE__));

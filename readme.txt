@@ -5,7 +5,7 @@ Tags: woocommerce, spin wheel, discount popup, gamification, exit intent
 Requires at least: 6.9
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires Plugins: woocommerce
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -98,6 +98,9 @@ Every prize coupon Spin & Win creates is a normal WooCommerce coupon, visible un
 3. The instant result reveal after spinning, showing the won discount code with its one-click copy button.
 
 == Changelog ==
+
+= 1.0.2 =
+* The WooCommerce > HDWebmobile Overview page now has a short introduction to Store Guardian, a separate paid plugin that test-buys from your checkout every hour. It is hidden once Store Guardian is active. No changes to this plugin's own features.
 
 = 1.0.1 =
 * Confirmed compatibility with WordPress 7.1.
